@@ -43,12 +43,12 @@
       "#101014"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1c1014",
-      "#1c1014"
+      "#101014",
+      "#101014"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1c1014",
-      "#1c1014"
+      "#101014",
+      "#101014"
     ],
     "BACKGROUND_TERTIARY": [
       "#101014",
@@ -67,8 +67,8 @@
       "#101014"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1c1014",
-      "#1c1014"
+      "#101014",
+      "#101014"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#17161b",
@@ -128,7 +128,7 @@
     "PRIMARY_500": "#17161b",
     "PRIMARY_630": "#101014",
     "PRIMARY_800": "#101014",
-    "BRAND_260": "#FFFFFF",
+    "BRAND_260": "#D2042D",
     "BRAND_360": "#D2042D",
     "WHITE": "#FFFFFF",
     "RED_260": "#D2042D",
